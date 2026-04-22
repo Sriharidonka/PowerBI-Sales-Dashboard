@@ -24,21 +24,28 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 ## 🧩 Data Model (Star Schema)
 This project follows a **star schema** with a central fact table connected to multiple dimension tables, ensuring efficient data analysis and scalability.
 
-- Designed a data model using **Fact and Dimension tables**  
-- Established relationships for optimized reporting performance  
+- Designed using **Fact and Dimension tables**  
+- Established relationships for optimized reporting  
 
-![Data Model](images/data_model.png)
+![Data Model](data_model.png)
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard1.png)
+### 🔹 Main Dashboard
+![Dashboard](dashboard1.png)
+
+### 🔹 Additional Views
+![Dashboard](dashboard2.png)
+![Dashboard](dashboard3.png)
+![Dashboard](dashboard4.png)
 
 ---
 
 ## 📂 Project Files
 - Power BI report file (`.pbix`)  
+- Dataset (`Store+Data.xlsx`)  
 - Dashboard screenshots  
 - Data model image  
 
