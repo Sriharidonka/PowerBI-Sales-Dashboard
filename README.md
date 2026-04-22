@@ -31,12 +31,9 @@ This project follows a **star schema** with a central fact table connected to mu
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Screenshots
 
-### 🔹 Main Dashboard
 ![Dashboard](dashboard1.png)
-
-### 🔹 Additional Views
 ![Dashboard](dashboard2.png)
 ![Dashboard](dashboard3.png)
 ![Dashboard](dashboard4.png)
