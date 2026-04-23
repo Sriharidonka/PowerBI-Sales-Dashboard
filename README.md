@@ -1,7 +1,7 @@
-# 📊 Sales Performance Dashboard (Power BI)
+# 📊 Sales Performance Reports/Dashboard (Power BI)
 
 ## 📌 Overview
-This project presents an interactive Power BI dashboard designed to analyze sales performance, product trends, and regional distribution. It focuses on transforming raw data into meaningful business insights through data preparation, modeling, and visualization.
+This project presents an interactive Power BI reports/dashboard designed to analyze sales performance, product trends, and regional distribution. It focuses on transforming raw data into meaningful business insights through data preparation, modeling, and visualization.
 
 ---
 
@@ -31,19 +31,19 @@ This project follows a **star schema** with a central fact table connected to mu
 
 ---
 
-## 📷 Dashboard Screenshots
+## 📷 Report Screenshots
 
-![Dashboard](dashboard1.png)
-![Dashboard](dashboard2.png)
-![Dashboard](dashboard3.png)
-![Dashboard](dashboard4.png)
+![Report](dashboard1.png)
+![Report](dashboard2.png)
+![Report](dashboard3.png)
+![Report](dashboard4.png)
 
 ---
 
 ## 📂 Project Files
 - Power BI report file (`.pbix`)  
 - Dataset (`Store+Data.xlsx`)  
-- Dashboard screenshots  
+- Report screenshots  
 - Data model image  
 
 ---
