@@ -33,10 +33,10 @@ This project follows a **star schema** with a central fact table connected to mu
 
 ## 📷 Report Screenshots
 
-![Report](dashboard1.png)
-![Report](dashboard2.png)
-![Report](dashboard3.png)
-![Report](dashboard4.png)
+![Report](report1.png)
+![Report](report2.png)
+![Report](report3.png)
+![Report](report4.png)
 
 ---
 
